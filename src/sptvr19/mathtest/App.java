@@ -11,7 +11,6 @@ class App {
     
     public void run() throws InterruptedException {
         System.out.println(" ~~~ MATH TEST ~~~");
-        System.out.println(" ~~~ BY GEORG LAABE ~~~");
         
         Scanner scan = new Scanner(System.in);
         Random rand = new Random();
